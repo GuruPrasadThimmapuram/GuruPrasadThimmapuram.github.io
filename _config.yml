@@ -5,13 +5,14 @@ title                    : "Guru Thimmapuram"
 title_separator          : "-"
 subtitle                 : 
 name                     : "Guru Thimmapuram"
-description              : "Srihari Guru Prasad Thimmapuram (Guru Thimmapuram) is a published author and international conference speaker. As an Enterprise Agile Coach, he is helping Societe Generale in their Agile @ Scale transformation. Guru is also a technology enthusiast and passionate about technical agility coaching. You can find Guru as an active contributor in many agile and tech communities."
+description              : "Enable individuals, teams and organizations to unlock their full potential to achieve their goals and become better and happier than they are; through coaching"
 url                      : https://GuruPrasadThimmapuram.github.io
 baseurl                  : 
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/Guru.png"
 favicon                  : "/favicon-96x96.png"
+site.github.is_user_page : true
 masthead_title           : " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
